@@ -1,4 +1,3 @@
-This game relies on the pygame module to be run, so it needs to be run on an IDE that supports it (vscode won't work, Pycharm and Wing come to mind)
+This game relies on the pygame module to be run, so it needs to be intalled on the IDE you're using ("pip install pygame" should work - if not, there are some tutorials online that can explain it better than I could in a readme) 
 Instructions on how to play are included in the startup menu, but this is pretty similar to the card game "Memory", if you've ever played that.
-This was initially created in replit, so there may be some difficulty on getting it to run. If you encounter an error, don't hesitate to shoot me an email :]
-In the event it doesn't work, you can try it over on replit at https://replit.com/@Daniel64/Memory-but-E-waste
+If you encounter an error, don't hesitate to shoot me an email :]
