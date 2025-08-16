@@ -5,8 +5,7 @@ Memory but E-Waste is an E-Waste-themed game that uses parodied from the card ga
 
 ## Startup
 
-This game requires the pygame module to run
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+This game requires the pygame module to run. Use the package manager [pip](https://pip.pypa.io/en/stable/) to install it.
 
 ```bash
 pip install pygame
