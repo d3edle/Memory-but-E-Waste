@@ -1,6 +1,5 @@
-#Memory-but-E-Waste#
+# Memory-but-E-Waste
 
-About:
 Memory but E-Waste is an E-Waste-themed parody of the card game Memory with additional features like a timer. Meant to be played on one device with another person. 
 
 ## Startup
