@@ -12,4 +12,6 @@ pip install pygame
 
 ## How to play
 
-Instructions on how to play are included in the startup menu 
+Instructions on how to play are included in the startup menu, but it follows the regular rules of the card game memory - a link to a guide is below:
+
+https://www.classicgamesandpuzzles.com/Memory.html
